@@ -1,0 +1,26 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    background-color: cadetblue; width: 423mm; height: 40px;
+    justify-content: space-between;
+}
+div.mainlogo{
+    padding: 8px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li{
+    float:left;
+    padding: 10px;
+}
+li a{
+    text-decoration: none;
+}
